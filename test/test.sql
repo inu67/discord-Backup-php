@@ -1,0 +1,3 @@
+CREATE TABLE 'members'(
+    `refresh`
+);

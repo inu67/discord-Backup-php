@@ -1,3 +1,0 @@
-CREATE TABLE 'members'(
-    `refresh`
-);
